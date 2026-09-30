@@ -1,0 +1,9 @@
+{
+  "name": "blockchain-visualizer",
+  "version": "1.0.0",
+  "description": "Interactive Blockchain Concept Visualizer - CSB24PCC452 | MGM University",
+  "scripts": {
+    "start": "python -m http.server 3000",
+    "serve": "npx serve -l 3000 ."
+  }
+}
